@@ -1,4 +1,4 @@
-import logo from './platzi.webp';
+import logo from './Sena_Colombia_logo.webp';
 import './App.css';
 
 function App() {
